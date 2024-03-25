@@ -1,0 +1,22 @@
+{
+  "config": [
+    {
+      "is_valid": true,
+      "name": "sol-happy",
+      "decimals": 6,
+      "token_amount": 0,
+      "sol_amount": 22545850620,
+      "contract_address": "aBvs3Zv9JYmvUCKqRJvGctDQSCt6R7NAMELid3FeqsQ",
+      "strategy": "grid",
+      "buy_or_sell": "buy",
+      "range": 2.0,
+      "state": {
+        "lowest": 0.027615593705422412,
+        "highest": 0.027974451663290812,
+        "current_price": 0.027615593705422412,
+        "nb_output_if_i_sell": 0.027615593705422412
+      }
+    }
+  ],
+  "interval_second_main_loop": 2
+}

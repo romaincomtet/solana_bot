@@ -1,0 +1,158 @@
+{
+  "config": [
+    {
+      "is_valid": true,
+      "name": "sol-hammi",
+      "decimals": 6,
+      "token_amount": 5322411875077,
+      "sol_amount": null,
+      "contract_address": "26KMQVgDUoB6rEfnJ51yAABWWJND8uMtpnQgsHQ64Udr",
+      "strategy": "grid",
+      "buy_or_sell": "sell",
+      "range": 2.0,
+      "state": {
+        "lowest": 0.0021263904533574394,
+        "highest": 0.0021263904533574394,
+        "current_price": 0.0021263904533574394,
+        "nb_output_if_i_sell": 0.0021263904533574394
+      }
+    },
+    {
+      "is_valid": false,
+      "name": "sol-bcat",
+      "decimals": 6,
+      "token_amount": 0,
+      "sol_amount": 353269507,
+      "contract_address": "31GUGbRSct8MsJJnditGy98xMxowq58sFsZ9CGQRMLT8",
+      "strategy": "grid",
+      "buy_or_sell": "buy",
+      "range": 0.05,
+      "state": {
+        "lowest": 0.004160683985397561,
+        "highest": 0.007621302162010252,
+        "current_price": 0.004733233425022256,
+        "nb_output_if_i_sell": 0.004733233425022256
+      }
+    },
+    {
+      "is_valid": false,
+      "name": "sol-acat",
+      "decimals": 6,
+      "token_amount": 0,
+      "sol_amount": 14739340174,
+      "contract_address": "acatzTjUeHDT3SoufN6NMxGUmBFtoqFHnFwusdw8kYX",
+      "strategy": "grid",
+      "buy_or_sell": "buy",
+      "range": 0.28,
+      "state": {
+        "lowest": 0.00217113624267961,
+        "highest": 0.009693151749560276,
+        "current_price": 0.009492431231190663,
+        "nb_output_if_i_sell": 0.009492431231190663
+      }
+    },
+    {
+      "is_valid": false,
+      "name": "sol-harold",
+      "decimals": 9,
+      "token_amount": 0,
+      "sol_amount": 14739340174,
+      "contract_address": "EjmDTt8G3T725eFSV7oWmGD8J848guo3LZ1EB3RfwGSw",
+      "strategy": "grid",
+      "buy_or_sell": "buy",
+      "range": 0.11,
+      "state": {
+        "lowest": 5.856268453513264e-7,
+        "highest": 2.2053399371335655e-6,
+        "current_price": 1.6577864620303353e-6,
+        "nb_output_if_i_sell": 1.6577864620303353e-6
+      }
+    },
+    {
+      "is_valid": false,
+      "name": "sol-popcat",
+      "decimals": 9,
+      "token_amount": 0,
+      "sol_amount": 353269507,
+      "contract_address": "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr",
+      "strategy": "grid",
+      "buy_or_sell": "buy",
+      "range": 0.06,
+      "state": {
+        "lowest": 0.0002902507182801281,
+        "highest": 0.0012420245046152656,
+        "current_price": 0.001124763295998816,
+        "nb_output_if_i_sell": 0.001124763295998816
+      }
+    },
+    {
+      "is_valid": false,
+      "name": "sol-vape",
+      "decimals": 9,
+      "token_amount": 0,
+      "sol_amount": 353269507,
+      "contract_address": "2qmcZfyPpiFFx9kJPY9i7dM7Da6J5rVUvXzTsx1FJtfq",
+      "strategy": "grid",
+      "buy_or_sell": "buy",
+      "range": 0.41,
+      "state": {
+        "lowest": 4.241267294469482e-6,
+        "highest": 0.000016849458974084695,
+        "current_price": 6.5505941437688425e-6,
+        "nb_output_if_i_sell": 6.5505941437688425e-6
+      }
+    },
+    {
+      "is_valid": true,
+      "name": "sol-happy",
+      "decimals": 6,
+      "token_amount": 835803851358,
+      "sol_amount": 14739340174,
+      "contract_address": "aBvs3Zv9JYmvUCKqRJvGctDQSCt6R7NAMELid3FeqsQ",
+      "strategy": "grid",
+      "buy_or_sell": "sell",
+      "range": 2.0,
+      "state": {
+        "lowest": 0.023753478043613673,
+        "highest": 0.023795798517421647,
+        "current_price": 0.023795798517421647,
+        "nb_output_if_i_sell": 0.023795798517421647
+      }
+    },
+    {
+      "is_valid": false,
+      "name": "sol-wif",
+      "decimals": 6,
+      "token_amount": 8210440,
+      "sol_amount": null,
+      "contract_address": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+      "strategy": "grid",
+      "buy_or_sell": "sell",
+      "range": 0.075,
+      "state": {
+        "lowest": 12.42988573084999,
+        "highest": 88.58500786803144,
+        "current_price": 13.05979167986125,
+        "nb_output_if_i_sell": 13.05979167986125
+      }
+    },
+    {
+      "is_valid": true,
+      "name": "sol-niggaswar",
+      "decimals": 9,
+      "token_amount": 67483503622941,
+      "sol_amount": null,
+      "contract_address": "DWPuXCZ838cw6NZdRnQLiYq47USkqouxaWZna6NbttGu",
+      "strategy": "grid",
+      "buy_or_sell": "sell",
+      "range": 100.0,
+      "state": {
+        "lowest": 6.777804432852689e-7,
+        "highest": 0.000010376130912117628,
+        "current_price": 6.934143825942727e-7,
+        "nb_output_if_i_sell": 6.934143825942727e-7
+      }
+    }
+  ],
+  "interval_second_main_loop": 2
+}

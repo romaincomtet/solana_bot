@@ -1,0 +1,15 @@
+1157235525518
+493.98534636583753
+
+vape
+ "decimals": 9,
+      "token_amount": 97193521284027,
+
+add memo price 
+
+each file work in a thread and use a file to track theire progress 
+add sqlite sockage
+
+problem price need to not reset and just set the price where i should have by to keep a good grid
+
+fix les erreur et download les log
