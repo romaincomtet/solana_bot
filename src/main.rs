@@ -1,9 +1,11 @@
 mod discord;
 #[allow(unused)]
 mod keypair;
+mod thread_handler;
 mod types;
 use crate::keypair::load_keypair_from_json_file;
 use dotenv::dotenv;
+use jupiter_swap_api_client::JupiterSwapApiClient;
 use solana_client::nonblocking::rpc_client::RpcClient;
 use solana_client::rpc_request::TokenAccountsFilter;
 use solana_program::pubkey;
