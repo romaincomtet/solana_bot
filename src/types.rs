@@ -1,3 +1,5 @@
+use std::time::SystemTime;
+
 use jupiter_swap_api_client::JupiterSwapApiClient;
 
 pub struct TreadHandler {
@@ -61,7 +63,7 @@ pub struct Coin {
 pub struct CoinHistory {
     pub price: f64,
     pub price_sol: f64,
-    pub time: String,
+    pub time: SystemTime,
 }
 
 pub struct DiscordSettings {
