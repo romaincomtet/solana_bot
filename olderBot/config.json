@@ -9,7 +9,7 @@
       "contract_address": "aBvs3Zv9JYmvUCKqRJvGctDQSCt6R7NAMELid3FeqsQ",
       "strategy": "grid",
       "buy_or_sell": "buy",
-      "range": 2.0,
+      "range": 0.2,
       "state": {
         "lowest": 0.027615593705422412,
         "highest": 0.027974451663290812,

@@ -1,5 +1,5 @@
 [package]
-name = "solana_bot"
+name = "bot-grid-solana"
 version = "0.1.0"
 edition = "2021"
 
@@ -12,7 +12,6 @@ bip39 = "2.0.0"
 dotenv = "0.15.0"
 jupiter-swap-api-client = "0.1.0"
 reqwest = "0.11.26"
-serenity = {version = "0.11.7",  default-features = false, features = ["gateway", "client", "rustls_backend", "model"]}
 serde = { version = "1.0.197",  features = ["derive"] }
 serde_json = "1.0.114"
 solana-account-decoder = "1.18.6"
