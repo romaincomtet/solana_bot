@@ -3,6 +3,7 @@ mod discord;
 mod keypair;
 mod thread_handler;
 mod types;
+
 use crate::keypair::load_keypair_from_json_file;
 use dotenv::dotenv;
 use jupiter_swap_api_client::JupiterSwapApiClient;
