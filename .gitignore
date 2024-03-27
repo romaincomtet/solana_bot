@@ -3,3 +3,4 @@ Cargo.lock
 secret_sol.json
 db-data/
 .env
+node_modules/
